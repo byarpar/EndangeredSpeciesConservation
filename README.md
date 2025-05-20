@@ -18,7 +18,7 @@ This project provides a comprehensive machine learning and data analysis framewo
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/your-username/endangered-species-conservation.git
+git clone https://github.com/byarpar/EndangeredSpeciesConservation.git
 cd endangered-species-conservation
 
 # Create a virtual environment
