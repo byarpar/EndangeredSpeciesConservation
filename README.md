@@ -62,22 +62,7 @@ priority_species = identify_priority_species(data_with_priority)
 print(f"Found {len(priority_species)} priority species")
 \`\`\`
 
-## Project Structure
 
-\`\`\`
-endangered-species-conservation/
-├── data/                  # Data directory
-│   ├── models/            # Saved models
-│   └── plots/             # Generated visualizations
-├── reports/               # Generated conservation reports
-├── profiles/              # Species profiles
-├── src/                   # Source code
-│   ├── data_processing.py # Data loading and preprocessing
-│   ├── model.py           # Machine learning models
-│   └── conservation_analysis.py # Conservation-specific analysis
-├── main.py                # Main execution script
-└── README.md              # Project documentation
-\`\`\`
 
 ## Outputs
 
